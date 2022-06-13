@@ -1,4 +1,4 @@
-[![hansajith18's GitHub stats](https://github-readme-stats.vercel.app/api?username=hansajith18&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/hansajith18/github-readme-stats)
+![hansajith18's GitHub stats](https://github-readme-stats.vercel.app/api?username=hansajith18&count_private=true&show_icons=true&theme=tokyonight)
 
 <br>
 
@@ -6,7 +6,7 @@
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hansajith18&layout=compact)](https://github.com/hansajith18/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hansajith18&layout=compact)
 
 <br>
 
