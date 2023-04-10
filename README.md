@@ -47,7 +47,7 @@
     </a> 
     <br>
     📫 How to reach me <a href="mailto:hansajith18@gmail.com" target="_blank"> hansajith18@gmail.com</a> <br>
-    👉 Also, Check out my company's active <a href="https://github.com/hansajith18" target="_blank"> GitHub profile</a>
+    👉 Also, Check out my company's active <a href="https://github.com/hansajith1998" target="_blank"> GitHub profile</a>
 </p>
 
 ## 🔥🧑‍💻 GitHub Stats
