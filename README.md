@@ -128,7 +128,8 @@
 
 - #### Frameworks/Libraries
    <a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
-       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" height="40"/> 
+       <img src="https://laravel.com/img/logomark.min.svg" alt="laravel" height="40"/> 
+       <img src="https://laravel.com/img/logotype.min.svg" alt="laravel" height="30"/> 
    </a>
    <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
        <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" style="background-color: white" alt="express" height="40"/> 
