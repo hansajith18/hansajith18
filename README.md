@@ -49,7 +49,8 @@
     📫 How to reach me <a href="mailto:hansajith18@gmail.com" target="_blank"> hansajith18@gmail.com</a> <br>
      Also, Check out <br> 
     👉 Work <a href="https://github.com/hansajith1998" target="_blank"> GitHub profile</a> <br> 
-    👉 Academic <a href="https://github.com/it21156410" target="_blank"> GitHub profile</a>
+    👉 Academic <a href="https://github.com/it21156410" target="_blank"> GitHub profile</a> <br>
+    👉 Research <a href="https://github.com/24-25J-097" target="_blank"> GitHub Organization</a> <br>
 </p>
 
 ## 🔥🧑‍💻 GitHub Stats
